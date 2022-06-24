@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+header ul, header li{
+    color: white;
+    font-size: 18px;
+    list-style-type: none;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+header li, header img {
+    margin-right: 15px;
+    padding: 2px;
+}
+
+header img{
+    float: left;
+    margin: 10px 0 0 10px;
+}
+
+header  a{
+    text-decoration: none;
+    color: rgb(48, 43, 43);
+}
+
+header a:hover, header a:active{
+    color: rgb(206, 162, 79);
+    font-size: 20px;
+}
+
+header {
+    background-color: rgb(180, 42, 42);
+    position: sticky;
+    top: 0;
+    border: 1px solid #610C63;
+}
+
+main a {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+#cblol-2021{
+    position: relative;
+
+}
+
+#cblol-2021 img{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#cblol-2021 label {
+    position: absolute;
+    color: cornsilk;
+    font-size: 32px;
+    text-align: center;
+}    

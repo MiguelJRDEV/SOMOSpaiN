@@ -52,6 +52,13 @@ header {
     animation: zoom-in 1s ease 0s 1 normal forwards;
 }
 
+#p-materias {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
 @keyframes zoom-in {
     0% {
         opacity: 0;
@@ -62,14 +69,28 @@ header {
     }
 }
 
-#fabrica-idolos {
+#idolos-historia {
     display: flex;
     justify-content: space-around;
     margin-top: 100px;
 }
 
-#fabrica-idolos img:hover {
+#idolos-historia img:hover {
     animation: zoom-in 1s ease 0s 1 normal forwards;
+}
+
+#p-idolos {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+#p-historia {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
 }
 
 main h1 {
@@ -79,17 +100,17 @@ main h1 {
     font-size: 30px;
 }
 
-main p {
-    font-size: 20px;
+#p-explicativo {
+    font-size: 15px;
     text-align: center;
     font-family: 'Roboto Mono', monospace;
-    color: antiquewhite;
+    color: white;
     margin: 10px 10px 0 10px;
 }
 
 main h2 {
     color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Merriweather', serif;
     text-align: center;
 }

@@ -33,7 +33,6 @@ header a {
 header a:hover,
 header a:active {
     color: rgb(206, 162, 79);
-    font-size: 20px;
 }
 
 header {

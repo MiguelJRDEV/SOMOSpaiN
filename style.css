@@ -72,6 +72,13 @@ header {
     animation: zoom-in 1s ease 0s 1 normal forwards;
 }
 
+main h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+
 main p {
     font-size: 20px;
     text-align: center;
@@ -90,7 +97,7 @@ main h2 {
 footer {
     text-align: center;
     margin-top: 50px;
-    border-top: 5px rgb(255, 0, 0) solid;
+    border-top: 8px rgb(255, 0, 0) solid;
 }
 
 footer img {

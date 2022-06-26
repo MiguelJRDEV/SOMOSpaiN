@@ -42,16 +42,71 @@ header {
     border: 1px solid #610C63;
 }
 
-main a {
+#cblol-2021 {
     display: flex;
     justify-content: center;
-    margin-top: 100px;
-}
-
-#cblol-2021 img {
-    position: absolute;
+    margin-top: 50px;
 }
 
 #cblol-2021 img:hover {
-    top: 20px;
+    animation: zoom-in 1s ease 0s 1 normal forwards;
+}
+
+@keyframes zoom-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1.1);
+        opacity: 1;
+    }
+}
+
+#fabrica-idolos {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+#fabrica-idolos img:hover {
+    animation: zoom-in 1s ease 0s 1 normal forwards;
+}
+
+main p {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: antiquewhite;
+    margin: 10px 10px 0 10px;
+}
+
+main h2 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    border-top: 5px rgb(255, 0, 0) solid;
+}
+
+footer img {
+    margin-top: 20px;
+}
+
+footer h1 {
+    color: rgb(139, 129, 129);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+footer p {
+    color: rgb(139, 129, 129);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
 }

@@ -98,3 +98,20 @@ main {
     margin-top: 20px;
     border-radius: 10%;
 }
+
+li {
+    padding: 5px 0 5px 0;
+    font-size: 15px;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(255, 255, 255);
+    list-style-type: none;
+    text-align: center;
+}
+
+#isso-e-pain {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    margin: 10px 15% 10px 15%;
+}

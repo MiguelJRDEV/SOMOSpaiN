@@ -104,11 +104,24 @@ main p {
     border-radius: 10px;
 }
 
-main li {
-    padding: 5px 0 5px 0;
+.list-creditos li a {
     font-size: 15px;
     font-family: 'Roboto Mono', monospace;
     color: rgb(255, 255, 255);
-    list-style-type: none;
+    text-decoration: none;
+}
+
+.list-creditos li a:hover {
+    color: yellow;
+}
+
+.list-creditos li {
     text-align: center;
+    margin: 0 1% 1% 1%;
+    padding: 0 5px 0 5px;
+    list-style-type: none;
+}
+
+.list-creditos {
+    margin: 0;
 }

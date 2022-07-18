@@ -9,6 +9,10 @@ O objetivo deste trabalho é desenvolver e colocar em prática o que aprendemos 
 
 O nosso site tem como ponto central a paiN Gaming, mas também explicamos um pouco sobre ocmo foi o ínicio do FPS.
 
+![logo-hist-fps](https://user-images.githubusercontent.com/98663502/179584121-7c19ebc3-e8ac-4678-91cc-0447afc93f3a.png)
+
+Fala sobre sua parte aqui, GABRIEL!
+
 ![logo-pain](https://user-images.githubusercontent.com/98663502/179396523-fde1cb3f-33eb-4de3-a414-f3000ce13aa1.png)
 
 A paiN Gaming é uma organização de E-Sports do Brasil e uma das maiores da Ámerica Lática. O objetivo do site é que você conheça mais sobre a paiN e como ela foi importante par ao desenvlvimento do cenário competitivo dos jogos eletronicos no Brasi.

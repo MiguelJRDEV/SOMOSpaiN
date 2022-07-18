@@ -9,7 +9,7 @@ O objetivo deste trabalho é desenvolver e colocar em prática o que aprendemos 
 
 O nosso site tem como ponto central a paiN Gaming, mas também explicamos um pouco sobre ocmo foi o ínicio do FPS.
 
-![logo-hist-fps](https://user-images.githubusercontent.com/98663502/179584121-7c19ebc3-e8ac-4678-91cc-0447afc93f3a.png)
+![logo-hist-fps (1)](https://user-images.githubusercontent.com/98663502/179586833-6738d3d4-da16-4725-a74d-25c6867c8d27.png)
 
 Fala sobre sua parte aqui, GABRIEL!
 

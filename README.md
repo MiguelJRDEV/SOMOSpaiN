@@ -11,8 +11,6 @@ O nosso site tem como ponto central a paiN Gaming, mas também explicamos um pou
 
 ![logo-hist-fps (1)](https://user-images.githubusercontent.com/98663502/179586833-6738d3d4-da16-4725-a74d-25c6867c8d27.png)
 
-
-(Fala sobre sua parte aqui, GABRIEL!)
 O objetivo desse trabalho é mostrar como foi a trajetória e história dos fps (First Person Shooter/Tiro em Primeira Pessoa), mostrar os jogos que revolucionaram o gênero e observarmos o quanto a tecnologia ainda pode evoluir e mudar vidas de milhares de pessoas. 
 
 

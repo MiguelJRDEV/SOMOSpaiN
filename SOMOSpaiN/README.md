@@ -7,12 +7,10 @@ Trabalho final de semestre CEFET-MG - Professor Daniel Hasan Dalip
 
 O objetivo deste trabalho é desenvolver e colocar em prática o que aprendemos ao longo do 1º e 2º bimestre letivos.
 
-O nosso site tem como ponto central a paiN Gaming, mas também explicamos um pouco sobre ocmo foi o ínicio do FPS.
+O nosso site tem como ponto central a paiN Gaming, mas também explicamos um pouco sobre como foi o ínicio do FPS.
 
 ![logo-hist-fps (1)](https://user-images.githubusercontent.com/98663502/179586833-6738d3d4-da16-4725-a74d-25c6867c8d27.png)
 
-
-(Fala sobre sua parte aqui, GABRIEL!)
 O objetivo desse trabalho é mostrar como foi a trajetória e história dos fps (First Person Shooter/Tiro em Primeira Pessoa), mostrar os jogos que revolucionaram o gênero e observarmos o quanto a tecnologia ainda pode evoluir e mudar vidas de milhares de pessoas. 
 
 

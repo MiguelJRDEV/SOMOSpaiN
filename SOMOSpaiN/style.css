@@ -85,6 +85,81 @@ header {
     border: 1px solid #610C63;
 }
 
+#cblol-2021 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#cblol-2021 img:hover {
+    animation: zoom-in 1s ease 0s 1 normal forwards;
+}
+
+#p-materias {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+@keyframes zoom-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1.1);
+        opacity: 1;
+    }
+}
+
+#idolos-historia {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#idolos-historia img:hover {
+    animation: zoom-in 1s ease 0s 1 normal forwards;
+}
+
+#p-idolos {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+#p-historia {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+main h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+
+#p-explicativo {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    margin: 10px 10px 0 10px;
+}
+
+main h2 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
 footer {
     text-align: center;
     margin-top: 50px;

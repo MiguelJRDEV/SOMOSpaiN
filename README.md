@@ -18,4 +18,4 @@ O objetivo desse trabalho é mostrar como foi a trajetória e história dos fps 
 
 A paiN Gaming é uma organização de E-Sports do Brasil e uma das maiores da Ámerica Lática. O objetivo do site é que você conheça mais sobre a paiN e como ela foi importante par ao desenvlvimento do cenário competitivo dos jogos eletronicos no Brasi.
 
-Os sites foram desenvolvidos por Gabriel Silva e Miguel Henrique, ambos alunos do curso de ÍNFORMATICA no CEFET-MG CAMPUS BH.
+Os sites foram desenvolvidos por Gabriel Silva e Miguel Henrique, ambos alunos do curso de INFORMÁTICA no CEFET-MG CAMPUS BH.
